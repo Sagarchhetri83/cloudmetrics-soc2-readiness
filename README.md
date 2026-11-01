@@ -1,10 +1,10 @@
 # CloudMetrics | SOC 2 (Security & Availability) Readiness Assessment
 
-[![Framework: AICPA SOC 2]
+![Framework: AICPA SOC 2](https://img.shields.io/badge/Framework-AICPA%20SOC%202%20(2017%20TSC)-blue.svg?style=flat-square)
 [![Trust Services Criteria](https://img.shields.io/badge/Criteria-Security%20(CC)%20%2B%20Availability%20(A1)-0052CC.svg?style=flat-square)](#scoping--system-boundary)
 [![Readiness Score](https://img.shields.io/badge/Readiness%20Score-61.4%25%20(In%20Remediation)-f59e0b.svg?style=flat-square)](#readiness-scorecard--gap-summary)
 [![Audit Strategy](https://img.shields.io/badge/Strategy-Type%20I%20(M4)%20%E2%86%92%20Type%20II%20(M12)-10b981.svg?style=flat-square)](#remediation-roadmap--audit-strategy)
-[![Cloud Infrastructure](https://img.shields.io/badge/Cloud-AWS%20Multi--AZ%20(EKS%20%2B%20RDS)-orange.svg?style=flat-square)](#cloudmetrics-architecture--data-flow)
+[![Cloud Infrastructure](https://img.shields.io/badge/Cloud-AWS%20Multi--AZ%20(EKS%20%2B%20RDS)-orange.svg?style=flat-square)](#scoping--system-boundary)
 
 A comprehensive, audit-ready **SOC 2 Type I and Type II Readiness Assessment** for **CloudMetrics**, a fictional high-growth B2B SaaS analytics company (118 employees). 
 
